@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Y-Yaaang
 - 👀 I’m interested in music, swimming, badminton ...
-- 🌱 I’m currently doing Ph.D. in Li-ion Battery Safety 
+- 🌱 I’m a Research Engineer in Li-ion Battery Safety 
 - 💞️ I’m looking to collaborate on any interesting projects
 - 📫 How to reach me: dr.yaaang@iCloud.com
 - 😄 Pronouns: he/him/his
