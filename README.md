@@ -1,5 +1,5 @@
-👋 Hi, I’m @Y-Yaaang
-👀 I’m interested in music, swimming, badminton ...
+- 👋 Hi, I’m @Y-Yaaang
+- 👀 I’m interested in music, swimming, badminton ...
 🌱 I’m a Research Engineer in Li-ion Battery Safety 
 💞️ I’m looking to collaborate on any interesting projects
 📫 How to reach me: dr.yaaang@gmail.com
